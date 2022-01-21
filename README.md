@@ -1,2 +1,2 @@
-# amazon_clone_app
+# Amazon Clone
 Website for Online Shopping
