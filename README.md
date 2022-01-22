@@ -5,7 +5,8 @@ Website link: https://amazoneccomerceapp.herokuapp.com/
 Here, First we need to Register or create an account.  
 then signin to add products in the cart and purchase. 
 
-Below is the quick demonstration..
+Below is the quick demonstration..  
+( This site is responsive..)  
 
 
 
